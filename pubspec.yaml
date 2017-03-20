@@ -1,6 +1,6 @@
 name: jfmt
 description: A simple console application.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/kevmoo/jfmt
 author: Kevin Moore <kevmoo@google.com>
 
