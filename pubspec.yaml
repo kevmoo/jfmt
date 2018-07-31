@@ -1,11 +1,11 @@
 name: jfmt
 description: A simple console application.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/kevmoo/jfmt
 author: Kevin Moore <kevmoo@google.com>
 
 environment:
-  sdk: '>=1.20.1 <2.0.0'
+  sdk: '>=2.0.0-dev.36 <3.0.0'
 
 executables:
   jfmt:
