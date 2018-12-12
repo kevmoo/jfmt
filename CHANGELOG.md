@@ -1,3 +1,8 @@
+## 1.0.3
+
+- Require Dart 2 stable.
+- Fix analysis issues.
+
 ## 1.0.2
 
 * Support Dart 2 stable.

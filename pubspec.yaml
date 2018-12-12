@@ -1,11 +1,14 @@
 name: jfmt
-description: A simple console application.
-version: 1.0.2
+description: Easily format JSON content in the console with this Dart utility.
+version: 1.0.3
 homepage: https://github.com/kevmoo/jfmt
 author: Kevin Moore <kevmoo@google.com>
 
 environment:
-  sdk: '>=2.0.0-dev.36 <3.0.0'
+  sdk: '>=2.0.0 <3.0.0'
+
+dev_dependencies:
+  pedantic: ^1.3.0
 
 executables:
   jfmt:
